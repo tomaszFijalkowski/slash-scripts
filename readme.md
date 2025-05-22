@@ -2,7 +2,7 @@
 
 **Slash** is an open-world action RPG featuring a variety of enemies guarding distinct locations, multiple weapons with special effects, magic potions to aid you in combat, and valuable loot to discover.
 
-This repository provides a snapshot of all scripts and commit messages. It's intended to showcase the game's core systems and code structure - no assets or engine content are included. To learn more, visit https://fijalkowski.it/slash.
+This repository provides a snapshot of all scripts and commit messages. It's intended to showcase the game's core systems and code structure - no assets or engine content are included. To learn more, visit [fijalkowski.it/slash](https://fijalkowski.it/slash).
 
 ## Commit messages
 
